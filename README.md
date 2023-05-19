@@ -14,3 +14,4 @@ scikit-learn 0.21.3
 
 测试结果：
 
+![link](test_result.png)
