@@ -1,6 +1,7 @@
 # flower-recognition-with-CNN
 A simple experiment of deep learning which is used CNN to recognize flowers. This experiment is based on Tensorflow.
 
+代码仅供参考
 
 环境配置：
 
