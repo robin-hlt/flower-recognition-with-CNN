@@ -5,6 +5,12 @@ A simple experiment of deep learning which is used CNN to recognize flowers. Thi
 环境配置：
 
 Python 3.7
+
 Tensorflow 1.15
+
 opencv 4.5.2
+
 scikit-learn 0.21.3
+
+测试结果：
+
