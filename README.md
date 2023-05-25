@@ -1,5 +1,6 @@
 # flower-recognition-with-CNN
-A simple experiment of deep learning which is used CNN to recognize flowers. This experiment is based on Tensorflow.
+A simple experiment of deep learning which is used CNN to recognize flowers. This experiment is based on Tensorflow. The dataset can be obtained on Baidu Cloud Disk. Link：https://pan.baidu.com/s/10nvcL94zgpreQUaDSIsIGA?pwd=cnn2 Password：cnn2 
+
 
 代码仅供参考
 
